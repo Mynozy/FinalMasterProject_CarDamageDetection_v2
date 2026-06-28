@@ -12,13 +12,13 @@
 
 ### Pipeline End-to-End (Phase 2)
 
-![Arquitectura Simple](Diagrama_Arqui.jpeg)
+![Arquitectura Simple](Arquitectura Simple.png)
 
 La arquitectura completa integra tres capas principales: input (imagen y video), core AI pipeline, y output con interfaz interactiva.
 
 ### Visión Enterprise (Phase 3 — Roadmap)
 
-![Arquitectura Enterprise](ArquitecturaComplejaDef__1_.png)
+![Arquitectura Enterprise](ArquitecturaComplejaDef.png)
 
 La visión a futuro incluye MLOps con CI/CD, multi-GPU training, Vertex AI Feature Store, y un motor de scoring de riesgo de cliente con telemática.
 
