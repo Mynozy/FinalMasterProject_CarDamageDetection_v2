@@ -12,7 +12,7 @@
 
 ### Pipeline End-to-End (Phase 2)
 
-![Arquitectura Simple](Arquitectura Simple.png)
+![Arquitectura Simple](ArquitecturaSimple.png)
 
 La arquitectura completa integra tres capas principales: input (imagen y video), core AI pipeline, y output con interfaz interactiva.
 
